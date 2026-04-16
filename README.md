@@ -10,6 +10,7 @@ The `settings.json` file is used to define environment variables that allow your
 ---
 
 ├── .claude/
+
  └── settings.json
 
 ## ⚙️ Setup
